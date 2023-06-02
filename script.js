@@ -34,14 +34,14 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Student", "Web-Developer", "Technical content writer", "UI Designer", "Competitive Programmer"],
+        strings: ["Student", " Data Science Enthusiast", "Technical content writer", "Frontend developer", "Competitive Programmer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Student", "Web-Developer", "Technical content writer", "UI Designer", "Competitive Programmer"],
+        strings: ["Student", " Data Science Enthusiast", "Technical content writer", "Frontend developer", "Competitive Programmer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
